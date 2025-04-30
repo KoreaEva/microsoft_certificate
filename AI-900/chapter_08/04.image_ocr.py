@@ -5,8 +5,8 @@ import time
 from PIL import Image, ImageDraw
 
 # 상수로 subscription key와 endpoint를 정의합니다.
-SUBSCRIPTION_KEY = "{SUBSCRIPTION_KEY}"
-ENDPOINT = "{ENDPOINT}"
+SUBSCRIPTION_KEY = "AtXfS5OQhfotXiriCGovxGE9CihH43cewGpjujg9FVtr6Z0UApYRJQQJ99BDACYeBjFXJ3w3AAAEACOGTe7o"
+ENDPOINT = "https://ai-900-ai-service-001.cognitiveservices.azure.com/"
 
 def analyze_image(image_path):
     analyze_url = ENDPOINT.rstrip('/') + "/vision/v3.2/analyze"

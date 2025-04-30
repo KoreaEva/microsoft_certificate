@@ -1,5 +1,5 @@
-SUBSCRIPTION_KEY = "{SUBSCRIPTION_KEY}"
-REGION = "{REGION}"
+SUBSCRIPTION_KEY = "AtXfS5OQhfotXiriCGovxGE9CihH43cewGpjujg9FVtr6Z0UApYRJQQJ99BDACYeBjFXJ3w3AAAEACOGTe7o"
+REGION = "eastus"
 
 import azure.cognitiveservices.speech as speechsdk
 
